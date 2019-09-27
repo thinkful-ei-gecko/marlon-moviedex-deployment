@@ -9,9 +9,6 @@
     "dev": "nodemon app"
   },
   "keywords": [],
-  "engines": {
-    "node": "12.8.0"
-  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
